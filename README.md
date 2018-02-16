@@ -20,8 +20,19 @@ Or install it yourself as:
 
 ## Usage
 
+
+Add require javascript and gem 
+```ruby
+gem 'underscore-rails', '~> 1.8', '>= 1.8.3'
+gem 'd3_rails', '~> 4.1', '>= 4.1.1'
+```
+
 Add the clustergrammer to your manifest file:
+```ruby
+    //= require d3
+    //= require underscore
     //= require clustergrammer
+```
 
 ## Development
 
