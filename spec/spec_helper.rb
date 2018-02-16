@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "rails/clustergrammer"
+#require "rails/clustergrammer"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

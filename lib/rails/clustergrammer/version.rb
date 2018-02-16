@@ -1,5 +1,5 @@
 module Rails
   module Clustergrammer
-    VERSION = "1.19.4"
+    VERSION = "0.1.0"
   end
 end

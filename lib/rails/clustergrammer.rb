@@ -1,7 +1,3 @@
 require "rails/clustergrammer/version"
+require "rails/clustergrammer/engine"
 
-module Rails
-  module Clustergrammer
-    class Engine < ::Rails::Engine; end
-  end
-end
